@@ -1,0 +1,6 @@
+{
+  "name": "Build Yourself - Learn. Practice. Build. Certify. Grow.",
+  "description": "Comprehensive AI-powered NLP-based education and career platform featuring technical courses, language learning, career roadmaps, mock tests, AI mock interviews, master's admission & university search, certificates, and portfolio builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
